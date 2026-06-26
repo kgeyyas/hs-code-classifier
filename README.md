@@ -137,12 +137,10 @@ Built with GAP OS using the Signal Hunter Framework
 
 Contributions are welcome after the initial public release.
 
-We welcome:
-
-Developers
-Trade and customs experts
-Data scientists
-Supply chain professionals
+- Developers
+- Trade and customs experts
+- Data scientists
+- Supply chain professionals
 
 Contributions to improve global trade infrastructure are greatly appreciated.
 

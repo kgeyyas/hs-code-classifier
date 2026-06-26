@@ -1,15 +1,32 @@
 # Roadmap
 
-This project is part of **The Signal Hunter GAP OS**. Here is our plan for future development:
+Built with **GAP OS** using **The Signal Hunter Framework**.
+
+The roadmap below outlines the planned evolution of this project.
 
 ## Phase 1: Core Foundation (Current)
-- [x] Initial open-source release.
-- [ ] Documentation refinement.
+- Public open-source release
+- HS code prediction engine
+- Clean UI
+- Documentation
+- MIT License
 
-## Phase 2: Enhanced Analytics
-- [ ] Integration of real-time trade data APIs.
-- [ ] Multi-language support for commodity descriptions.
+## Phase 2: Product Maturity
+- Confidence score
+- Top-3 predictions
+- CSV upload
+- Bulk classification
+- Country-specific classification
+- Export to CSV
 
-## Phase 3: Community & Scaling
-- [ ] User feedback loop implementation.
-- [ ] Advanced AI model fine-tuning for higher precision.
+## Phase 3: Intelligence & Automation
+- Real-time tariff datasets
+- REST API
+- LLM-assisted classification
+- Community contributions
+- Performance optimization
+
+## Phase 4: GAP OS Integration
+- AI feedback learning
+- Trade intelligence integration
+- GAP OS interoperability

@@ -22,7 +22,7 @@
 
 ---
 
-## 🌍 Overview
+## 🧭 Overview
 
 **HA.RS.QO** is an open-source HS Code classification tool designed for global trade workflows.
 
@@ -56,8 +56,8 @@ HA.RS.QO is part of a broader open-source trade intelligence toolkit:
 
 **Kenan Geyyas ➔ GAP OS ➔ The Signal Hunter Framework ➔ Free Tools**
 
-- 🎯 **HA.RS.QO** (`hs-code-classifier`): *You are here.*
-- 📊 **tarifio** (`tariff-calculator`): Tariff Calculator for Importers and Exporters
+- 🎯 **HA.RS.QO** (`hs-code-classifier`): *You are here*
+- 📊 ***tarifio*** (`tariff-calculator`): Tariff Calculator for Importers and Exporters
 - ⚖️ **PROVENI** (`fta-rules-of-origin`): Free Trade Agreement compliance verification
 - 📦 **Netto** (`landed-cost-calculator`): Landed Cost Calculator to Estimate Total Import Duties, Freight and Sourcing Fees
 - 🛡️ **COMPILA** (`supplier-compliance-tool`): Framework for Supplier Compliance Audits, Risk Assessments and Supply Chain Vetting
